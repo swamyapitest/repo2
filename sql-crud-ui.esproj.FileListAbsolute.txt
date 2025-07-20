@@ -1,0 +1,1 @@
+C:\Users\hp\source\repos\sql-crud-ui\obj\Debug\sql-crud-ui.esproj.CoreCompileInputs.cache
